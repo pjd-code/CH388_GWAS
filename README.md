@@ -23,5 +23,5 @@ https://github.com/kaustubhad/fastman
 9) What does the red line on the Q-Q plot represent?
 10) What does the line of black dots represent? 
 11) Why do the black dots rise above the red line as the plot moves right?
-12) From the paper, Meta-analyses of the ADHD GWAS identified 10 genome wide significat loci. What was the P value the authors used to determine significance?
+12) From the paper, Meta-analyses of the ADHD GWAS identified 10 genome wide significant loci. What was the P value the authors used to determine significance?
 13) Using the data, attempt to replicate the authors findings using the P value from question 12. Save the plot as a png.
